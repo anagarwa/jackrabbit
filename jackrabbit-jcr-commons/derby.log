@@ -1,0 +1,40 @@
+----------------------------------------------------------------
+2016-08-02 12:13:20.399 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance a816c00e-0156-4b2c-263d-000007173158
+on database directory /Users/anagarwa/Desktop/Code/apache/jackrabbit/jackrabbit-jcr-commons/target/repository/version/db  
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+2016-08-02 12:13:20.827 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 888c4022-0156-4b2c-263d-000007173158
+on database directory /Users/anagarwa/Desktop/Code/apache/jackrabbit/jackrabbit-jcr-commons/target/repository/workspaces/default/db  
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+2016-08-02 12:13:21.261 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 6965c036-0156-4b2c-263d-000007173158
+on database directory /Users/anagarwa/Desktop/Code/apache/jackrabbit/jackrabbit-jcr-commons/target/repository/workspaces/security/db  
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+2016-08-02 12:13:21.652 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance cbe9405a-0156-4b2c-263d-000007173158
+on database directory /Users/anagarwa/Desktop/Code/apache/jackrabbit/jackrabbit-jcr-commons/target/repository/workspaces/test/db  
+
+Database Class Loader started - derby.database.classpath=''
+
+2016-08-02 12:13:22.297 GMT:
+Shutting down instance 888c4022-0156-4b2c-263d-000007173158
+----------------------------------------------------------------
+
+2016-08-02 12:13:22.328 GMT:
+Shutting down instance 6965c036-0156-4b2c-263d-000007173158
+----------------------------------------------------------------
+
+2016-08-02 12:13:22.346 GMT:
+Shutting down instance cbe9405a-0156-4b2c-263d-000007173158
+----------------------------------------------------------------
+
+2016-08-02 12:13:22.382 GMT:
+Shutting down instance a816c00e-0156-4b2c-263d-000007173158
+----------------------------------------------------------------
